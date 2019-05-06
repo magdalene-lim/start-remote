@@ -5,6 +5,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# ignore conflict files
+*.orig
+
 # Runtime data
 pids
 *.pid
